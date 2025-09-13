@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Source Code](https://github.com/axah37/frontend-mentor-social-links-profile)
-- Live Site URL: [Live Site](hhttps://axah37.github.io/frontend-mentor-social-links-profile/)
+- Live Site URL: [Live Site](https://axah37.github.io/frontend-mentor-social-links-profile/)
 
 ## My process
 
